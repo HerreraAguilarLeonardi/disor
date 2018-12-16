@@ -1,0 +1,5 @@
+C:\Users\Leonardi\Desktop\SEMESTRE 9\webCesar\webCesar\bin\webCesar.dll
+C:\Users\Leonardi\Desktop\SEMESTRE 9\webCesar\webCesar\bin\webCesar.pdb
+C:\Users\Leonardi\Desktop\SEMESTRE 9\webCesar\webCesar\obj\Debug\webCesar.csprojResolveAssemblyReference.cache
+C:\Users\Leonardi\Desktop\SEMESTRE 9\webCesar\webCesar\obj\Debug\webCesar.dll
+C:\Users\Leonardi\Desktop\SEMESTRE 9\webCesar\webCesar\obj\Debug\webCesar.pdb
